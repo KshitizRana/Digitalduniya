@@ -1,0 +1,47 @@
+*{
+    border:0;
+    box-sizing: border-box;
+    margin:0;
+    font-family: 'Ubuntu', sans-serif;
+    
+
+}
+
+/* navbar */
+.side_bars{
+    margin-right: 50px;
+    
+}
+
+.my_font_size{
+font-size: 23px;
+}
+
+/* carsouel */
+.carousel{
+    height: 1800 px;
+    width: 600 px;
+    display:flex;
+    justify-content: center;
+    border-radius: 50px ;
+}
+
+.carousel-inner{
+    border-radius: 50px;
+}
+
+/* text main */
+.text_main{
+    background-color: #9ae2fc;
+    padding-top:40px ;
+    padding-bottom: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin:20px;
+    border-radius: 33px;
+}
+/* footer  */
+
+footer{
+    background-color: #f9fbfc;
+}
