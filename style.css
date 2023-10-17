@@ -41,7 +41,21 @@ font-size: 23px;
     border-radius: 33px;
 }
 /* footer  */
+.nav_last{
+    display:flex;
+    justify-content: center;
+}
 
 footer{
     background-color: #f9fbfc;
+    width:1880px;
+    padding:20px;
+    border-radius: 50px;
 }
+
+/* sign_up */
+/* form{
+    height:600px;
+    width:550px;
+    border:2px solid black
+} */
