@@ -53,6 +53,16 @@ footer{
     border-radius: 50px;
 }
 
+.text_main p {
+  font-size: 16px; /* Default size */
+}
+
+@media (min-width: 768px) {
+  .text_main p {
+    font-size: 18px; /* Adjusted size for larger screens */
+  }
+}
+
 /* sign_up */
 /* form{
     height:600px;
