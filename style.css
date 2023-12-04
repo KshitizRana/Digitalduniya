@@ -69,3 +69,25 @@ footer{
     width:550px;
     border:2px solid black
 } */
+
+
+/* testimonials */
+.card{
+    width:300px;
+    padding:10px;
+}
+
+.card-header{
+    display:flex;
+    justify-content: center;
+}
+
+
+.testimonials{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+
